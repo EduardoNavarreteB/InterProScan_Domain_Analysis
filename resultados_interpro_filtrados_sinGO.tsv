@@ -1,0 +1,84 @@
+UniProtkbID	Gene Name	Protein Name	Domain/Family/Active site	Type	InterPro	GO
+P57294	dksA	RNA polymerase-binding transcription factor DksA	Zinc finger, DksA/TraR C4-type conserved site	Conserved_site	IPR020458	-
+P57249	ileS	Isoleucine--tRNA ligase	Zinc finger, FPG/IleRS-type	Domain	IPR010663	-
+P57451	pyrI	Aspartate carbamoyltransferase regulatory chain	Aspartate carbamoyltransferase regulatory subunit, C-terminal	Domain	IPR020542	-
+P57451	pyrI	Aspartate carbamoyltransferase regulatory chain	Aspartate carbamoyltransferase regulatory subunit, N-terminal	Domain	IPR020545	-
+P57135	dnaT	Primosomal protein 1	DnaT, DNA-binding domain	Domain	IPR040480	-
+P57220	priA	Primosomal protein N'	Primosomal protein N'-like, winged helix	Domain	IPR048949	-
+P57371	topA	DNA topoisomerase 1	Topoisomerase I, zinc finger	Domain	IPR049330	-
+P57230	pheT	Phenylalanine--tRNA ligase beta subunit	Putative DNA-binding domain superfamily	Homologous_superfamily	IPR009061	-
+P57458	infB	Translation initiation factor IF-2	Putative DNA-binding domain superfamily	Homologous_superfamily	IPR009061	-
+P57200	hisG	ATP phosphoribosyltransferase	Nitrogen regulatory PII-like, alpha/beta	Homologous_superfamily	IPR011322	-
+P57588	rplB	Large ribosomal subunit protein uL2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57588	rplB	Large ribosomal subunit protein uL2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57652	rho	Transcription termination factor Rho	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57652	rho	Transcription termination factor Rho	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57395	rpsA	Small ribosomal subunit protein bS1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57401	aspS	Aspartate--tRNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57401	aspS	Aspartate--tRNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57610	ssb	Single-stranded DNA-binding protein	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57610	ssb	Single-stranded DNA-binding protein	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57230	pheT	Phenylalanine--tRNA ligase beta subunit	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57230	pheT	Phenylalanine--tRNA ligase beta subunit	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57459	nusA	Transcription termination/antitermination protein NusA	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57459	nusA	Transcription termination/antitermination protein NusA	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57172	ligA	DNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57172	ligA	DNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57354	rnb	Exoribonuclease 2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57354	rnb	Exoribonuclease 2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57354	rnb	Exoribonuclease 2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57354	rnb	Exoribonuclease 2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57354	rnb	Exoribonuclease 2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57354	rnb	Exoribonuclease 2	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57400	infA	Translation initiation factor IF-1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57400	infA	Translation initiation factor IF-1	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57628	rnr	Ribonuclease R	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57628	rnr	Ribonuclease R	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57628	rnr	Ribonuclease R	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57628	rnr	Ribonuclease R	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57628	rnr	Ribonuclease R	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57628	rnr	Ribonuclease R	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57454	pnp	Polyribonucleotide nucleotidyltransferase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57454	pnp	Polyribonucleotide nucleotidyltransferase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57582	rpsQ	Small ribosomal subunit protein uS17	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57582	rpsQ	Small ribosomal subunit protein uS17	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57133	efp	Elongation factor P	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57133	efp	Elongation factor P	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57133	efp	Elongation factor P	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57133	efp	Elongation factor P	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57595	rpsL	Small ribosomal subunit protein uS12	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57595	rpsL	Small ribosomal subunit protein uS12	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57441	asnS	Asparagine--tRNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57441	asnS	Asparagine--tRNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57512	lysS	Lysine--tRNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57512	lysS	Lysine--tRNA ligase	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P63237	cspE	Cold shock-like protein CspE	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P63237	cspE	Cold shock-like protein CspE	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57429	rne	Ribonuclease E	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57429	rne	Ribonuclease E	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57407	cspC	Cold shock-like protein CspC	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+P57407	cspC	Cold shock-like protein CspC	Nucleic acid-binding, OB-fold	Homologous_superfamily	IPR012340	-
+O05385	rpoH	RNA polymerase sigma factor RpoH	RNA polymerase sigma factor, region 3/4-like	Homologous_superfamily	IPR013324	-
+P57163	rpoD	RNA polymerase sigma factor RpoD	RNA polymerase sigma factor, region 3/4-like	Homologous_superfamily	IPR013324	-
+P57163	rpoD	RNA polymerase sigma factor RpoD	RNA polymerase sigma factor, region 3/4-like	Homologous_superfamily	IPR013324	-
+P57200	hisG	ATP phosphoribosyltransferase	Nitrogen regulatory protein PII/ATP phosphoribosyltransferase, C-terminal	Homologous_superfamily	IPR015867	-
+P57320	ilvH	Acetolactate synthase small subunit	Acetolactate synthase/Transcription factor NikR, C-terminal	Homologous_superfamily	IPR027271	-
+P57163	rpoD	RNA polymerase sigma factor RpoD	Winged helix-like DNA-binding domain superfamily	Homologous_superfamily	IPR036388	-
+P57163	rpoD	RNA polymerase sigma factor RpoD	Winged helix-like DNA-binding domain superfamily	Homologous_superfamily	IPR036388	-
+P57451	pyrI	Aspartate carbamoyltransferase regulatory chain	Aspartate carbamoyltransferase regulatory subunit, C-terminal domain superfamily	Homologous_superfamily	IPR036792	-
+P57451	pyrI	Aspartate carbamoyltransferase regulatory chain	Aspartate carbamoyltransferase regulatory subunit, N-terminal domain superfamily	Homologous_superfamily	IPR036793	-
+P57451	pyrI	Aspartate carbamoyltransferase regulatory chain	Aspartate carbamoyltransferase regulatory subunit, N-terminal domain superfamily	Homologous_superfamily	IPR036793	-
+P57548	clpX	ATP-dependent Clp protease ATP-binding subunit ClpX	Zinc finger, ClpX C4-type superfamily	Homologous_superfamily	IPR038366	-
+P57220	priA	Primosomal protein N'	Primosomal protein N', 3' DNA-binding domain superfamily	Homologous_superfamily	IPR042115	-
+P57633	mutL	DNA mismatch repair protein MutL	MutL, C-terminal domain, regulatory subdomain	Homologous_superfamily	IPR042121	-
